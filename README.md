@@ -1,20 +1,21 @@
 #  Tic-Tac-Toe Game
 
-A simple, interactive Tic-Tac-Toe (also known as Noughts and Crosses) web game built using **HTML**, **CSS**, and **JavaScript**.
+A simple, interactive Tic-Tac-Toe (also known as Noughts and Crosses) web game built using
+ **HTML**, **CSS**, and **JavaScript**.
 
 # Features
 
- 2-player game (Player O and Player X)
- Dynamic UI with turn-based logic
- Game reset and new game functionality
- Winner announcement with a congratulatory message
- Responsive and visually appealing design
+ 2-player game (Player O and Player X)<br>
+ Dynamic UI with turn-based logic<br>
+ Game reset and new game functionality<br>
+ Winner announcement with a congratulatory message<br>
+ Responsive and visually appealing design<br>
 
 #  Technologies Used
 
-HTML5
-CSS3
-Vanilla JavaScript (no frameworks)
+HTML5<br>
+CSS3<br>
+Vanilla JavaScript (no frameworks)<br>
 
 
 # How to Play
