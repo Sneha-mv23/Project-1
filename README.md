@@ -1,2 +1,2 @@
-# Project-1
+cd c# Project-1
 Author - Sneha M V
